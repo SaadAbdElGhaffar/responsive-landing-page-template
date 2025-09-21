@@ -120,14 +120,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Google Fonts for the typography
 - Normalize.css for cross-browser consistency
 
-## 📸 Screenshots
-
-### Desktop View
-![Desktop View](https://via.placeholder.com/800x400/10cab7/ffffff?text=Desktop+View)
-
-### Mobile View
-![Mobile View](https://via.placeholder.com/300x600/10cab7/ffffff?text=Mobile+View)
-
 ---
 
 ⭐ **If you found this project helpful, please give it a star!** ⭐
