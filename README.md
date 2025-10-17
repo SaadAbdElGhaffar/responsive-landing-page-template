@@ -106,13 +106,10 @@ The main colors are defined as CSS variables in `css/frist.css`:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Saad Abd El Ghaffar**
-
-- GitHub: [@SaadAbdElGhaffar](https://github.com/SaadAbdElGhaffar)
-- LinkedIn: [Saad Ahmed](https://www.linkedin.com/in/saad-ahmed-683b77219/)
-- Email: lord.amen84@gmail.com
+## 📬 Contact
+- **GitHub:** [SaadAbdElGhaffar](https://github.com/SaadAbdElGhaffar) 
+- **LinkedIn:** [Saad Abd El-Ghaffar](https://www.linkedin.com/in/saadabdelghaffar/) 
+- **Email:** [saad.abdelghaffar.ai@gmail.com](mailto:saad.abdelghaffar.ai@gmail.com)
 
 ## 🙏 Acknowledgments
 
